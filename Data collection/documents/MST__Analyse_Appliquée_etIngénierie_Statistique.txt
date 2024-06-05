@@ -1,0 +1,34 @@
+Filière: MST : Analyse Appliquée etIngénierie Statistique
+
+Objectif: Le Master Analyse Appliquée et Ingénierie Statistique (MAAIS) de l'Université Abdelmalek Essaadi a pour vocation d'offrir des parcours qui trouvent leurs bases dans une approche pluridisciplinaire. Au département de mathématiques on propose aux étudiants d’acquérir une double compétence en mathématiques et en statistiques appliquées s’appuyant sur un tronc commun développant des concepts et des outils de base. Pour une approche pluridisciplinaire des problèmes liés aux applications, les mathématiques et les statistiques appliquées ne peuvent que former des étudiants pour la recherche et les activités professionnelles de haut niveau avec un bon bagage mathématique. La spécialisation se ferait au terme du second semestre (S2) selon le choix des étudiants. En plus une bonne formation en tronc commun solide permettra de mieux optimiser les ressources humaines surtout au niveau des encadrants des PFEs (Master) et/ou des Doctorants.
+
+Coordinateur: Pr.EL HALIMI Rachid
+Email: r.elhalimi@uae.ac.ma
+
+Débouchés: Donner une formation mathématique et statistique de haut niveau et vise à développer les compétences en communication et l'autonomie des étudiants.Connaissance de méthodes mathématiques et statistiques pour la résolution de problèmes issus d'autres disciplines (physique, chimie, biologie, informatique, économie, etc.).Compréhension et analyse de documents scientifiques et de grandes bases de données.Conduite d'un projet d'une durée d’un semestre.Rédaction de rapports et présentation d'exposés de nature mathématique.Préparation à l'agrégation de mathématiques et concours des professeurs de second cycle.Ingénieur en simulation numérique
+
+Programme:
+Semestre 1:
+  1. Statistique mathématique (inférence 1)
+  2. Programmation avancée
+  3. Compléments d’analyses
+  4. Compléments d’algèbres
+  5. Analyse Numérique Matricielle et Calcul Parallèle
+  6. Équation différentielle stochastique (EDS)
+
+Semestre 2:
+  1. Théorie des EDP
+  2. Statistiques décisionnelles et simulation
+  3. Analyse fonctionnelle appliquée I
+  4. Les éléments finis et calculs scientifiques
+  5. Optimisation et contrôle optimale
+  6. Anglais Scientifique I (Soft Skills)
+
+Semestre 3:
+  1. - SM
+  2. Homogénéisation et Analyses asymptotiques
+  3. Modélisation 1 et Système dynamiques
+  4. Réseaux de Neurones et Apprentissage Automatique & Programmation avancée 2
+  5. Espaces Lebesgue et Sobolev & Méthode variationelle
+  6. Analyses numériques des systèmes hyperboliques & Méthodes des volumes finis
+  7. Analyse numérique

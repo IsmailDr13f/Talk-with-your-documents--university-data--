@@ -1,0 +1,52 @@
+Filière: DI:Génie Electrique et ManagementIndustriel
+
+Objectif: La formation proposée dans la spécialité Génie Electrique de la FST de Tanger a pour but de fournir au futur ingénieur en Génie Electrique tous les éléments indispensables à son insertion harmonieuse dans le monde industriel. Les enseignements associent théorie et techniques, expérimentation, projets et réalisations.Les enseignements dispensés sont répartis en quatre groupes de matières : des enseignements à caractère général, des disciplines fondamentales, un enseignement professionnel et une formation pratique par le biais de projets et de stages.
+
+Coordinateur: Pr. Ibrahim HADJ BARAKA
+Email: ihadjbaraka@uae.ac.ma
+
+Débouchés: La formation proposée vise à préparer les futurs ingénieurs dans les aspects principaux de génie électrique et management industriel.La production, la distribution, la transformation et l'utilisation de l'énergie électrique. la conception et la mise en oeuvre d'ensembles formés par les machines électriques et les convertisseurs qui les alimentent;L'automatique et tous les aspects qui interviennent dans la commande des systèmes industriels;Dans la partie électronique, les systèmes sont étudiés du point de vue de leur conception, réalisation et mise en oeuvre.La gestion de la maintenance, l’ingénierie de la qualité et l’amélioration des processus industriels et assurance qualité DÉBOUCHÉSIngénieur électronicien, électrotechnicien, automaticien et/ou managerIngénieur de rechercheIngénieur d'étudesIngénieur des méthodes et des essaisIngénieur de fabricationIngénieur logistiqueIngénieur technico-commercial ou d'affaires
+
+Programme:
+Semestre 1:
+  1. Mathématiques pour l’Ingénieur
+  2. Informatique
+  3. Électronique
+  4. Instrumentation et Capteurs
+  5. Energétique et MDF
+  6. Communication professionnelle
+
+Semestre 2:
+  1. Ingénierie de la Qualité
+  2. Automatique linéaire continue et échantillonné
+  3. Conception et Procédés de fabrication
+  4. Automatisme
+  5. Culture et Gestion de l’entreprise
+  6. Anglais Technique
+
+Semestre 3:
+  1. Mathématiques pour l’ingénieur II
+  2. Électrotechnique
+  3. Traitement de signal
+  4. Les sources d’énergies et réseaux de distribution
+  5. Machines Industrielles
+  6. GRH & Droit du travail
+
+Semestre 4:
+  1. Gestion et Maintenance & Sûreté de fonctionnement
+  2. Machines électriques
+  3. Électronique de puissance
+  4. Systèmes à Microprocesseurs et à Microcontrôleurs
+  5. Soft Skills
+  6. Analyse Gestion de projets/ Comptabilité générale et analytique
+
+Semestre 5:
+  1. Modélisation et Commande des machines
+  2. Amélioration des processus industriels et Assurance Qualité
+  3. Automatique Avancée et électronique des systèmes
+  4. Systèmes embarqués et Temps réel
+  5. Réseaux et Télécommunication
+  6. Innovation et Développement Durable
+
+Semestre 6:
+  1. Projet de fin d’étude

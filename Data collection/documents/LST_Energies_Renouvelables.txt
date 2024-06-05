@@ -1,0 +1,23 @@
+Filière: LST: Energies Renouvelables
+
+Objectif: Approfondir les connaissances scientifiques et techniques en énergies renouvelables. Ce domaine inclut l’énergie solaire, éolienne, géothermique, hydraulique, thermoélectrique, L’énergie de la biomasse, le stockage de l’énergie, l’efficacité énergétique.Elle permettra aux étudiants de pouvoir créer leur entreprise pour l’installation et l’entretien des mini installations photovoltaïques, éolienne, donner du conseil au niveau EnR, ou intégrer des cycles d’ingénieurs ou de Master spécialisés.
+
+Coordinateur: Pr.Ahachad Mohammed
+Email: mahachad@uae.ac.ma
+
+Débouchés: Lors de cette formation, les étudiants auront à étudier les différentes formes de production des énergies renouvelables (EnR). Ils apprendront les fondements scientifiques et techniques sur l’énergie solaire (photovoltaïque, thermique), éolien, hydraulique, géothermique, l’énergie de biomasse et déchets, le stockage d’énergie, et l’efficacité énergétique.
+
+Programme:
+Semestre 5:
+  1. Calcul Scientifique/Traitement du Signal
+  2. Mécanique des Fluides/Transferts Thermiques
+  3. Génie des Matériaux
+  4. Convertisseurs Statiques d’Énergie Électrique
+  5. Électrotechnique et Machines Électriques
+  6. Production des Énergies Renouvelables
+
+Semestre 6:
+  1. Énergie Solaire
+  2. Énergie Éolienne
+  3. Maintenance et fiabilité/Gestion de projets- Législation
+  4. Projet de fin d’études

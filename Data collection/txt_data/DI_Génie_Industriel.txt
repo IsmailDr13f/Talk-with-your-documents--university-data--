@@ -1,0 +1,52 @@
+Filière: DI: Génie Industriel
+
+Objectif: Acquérir de solides compétences dans les domaines des sciences et des technologies ;Disposer d'un potentiel de créativité et d'innovation ;Disposer d'aptitudes à conduire, à maîtriser, à organiser et à faire évoluer des procédés et des processus industriels ;Être capable de conduire, de diriger et de réaliser des projets industriels ;Maîtriser l'évolution des technologies ;Être capable de s’insérer et d’évoluer professionnellement dans les services techniques et scientifiques des entreprises
+
+Coordinateur: Pr. Zoubir ELFELSOUFI
+Email: zefelsoufi@uae.ac.ma
+
+Débouchés: L'activité de l'ingénieur industriel s'étend des premiers contacts avec les clients jusqu'au recyclage du produit qu'il a conçu. Il assumera donc la responsabilité technique, économique et écologique de son projet. L’ingénieur mécanicien intervient dans différents domaines d’activités : automobile, sidérurgie, aéronautique, machines outils, biens de consommation, agroalimentaire. L’ingénieur mécanicien s’intègre facilement au sein d’une PME qu’au sein d’une grande entreprise. Dans ces secteurs d’activités il occupera des postes clés dans les domaines suivants: Recherche et développement, Bureaux d’Etudes, Conception et Fabrication, Services Production, Qualité, Maintenance, Services Logistiques, Responsable projet et développement, Vente, Mise en service, Exploitation, Gestion et administration, Formation.
+
+Programme:
+Semestre 1:
+  1. Mathématiques pour l’Ingénieur
+  2. Programmation C++ / JAVA
+  3. Automatique linière continue et échantillonné
+  4. Électronique
+  5. Énergétique et mécanique des fluides
+  6. Techniques d’expression et de communication
+
+Semestre 2:
+  1. Systèmes d’informations et base de données
+  2. Électricité industrielle
+  3. Automatisme
+  4. Conception & Procédés de Fabrication
+  5. Métrologie et Instrumentation
+  6. Culture et Gestion de l’Entreprise
+
+Semestre 3:
+  1. Méthodes Numériques et Optimisation des Processus
+  2. Électrotechnique et Machines Électriques
+  3. Automatique linéaire continue et échantillonné
+  4. Anglais Scientifique
+  5. Machines Industrielles
+  6. RDM et Matériaux
+
+Semestre 4:
+  1. Fiabilité Mécanique
+  2. Construction Mécanique
+  3. Fabrication Mécanique
+  4. Gestion de la Maintenance & Sûreté de fonctionnement
+  5. Ingénierie Matériaux & Vibrations Mécaniques
+  6. Communication professionnelle
+
+Semestre 5:
+  1. Gestion de Production et management de projet
+  2. GRH et Comptabilité Analytique
+  3. QSE et Laen Manufacturing
+  4. Outils de la Qualité et six sigma
+  5. Logistique, Gestion intégrée & transport
+  6. Innovation Et développement durable
+
+Semestre 6:
+  1. Projet de fin d’étude

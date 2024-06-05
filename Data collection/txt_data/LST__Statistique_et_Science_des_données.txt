@@ -1,0 +1,23 @@
+Filière: LST : Statistique et Science des données
+
+Objectif: Permettre aux étudiants d’acquérir des connaissances en mathématiques fondamentales et appliquées et aussi en sciences des données et informatique.Apporter aux étudiants une formation solide en statistique et science des données, tout en leur permettant d’acquérir une culture scientifique générale pour favoriser leur intégration dans leur futurDévelopper les aspects théoriques par des enseignements adaptés (cours, travaux dirigés, étude de cas, mini projets) et des aspects pratiques par des études de problèmes concrets de la statistique, Science des donnée et informatique (stages en entreprise, visites et projets de fin d’études).Utiliser efficacement l’outil informatique et les logicielsFormer des jeunes diplômés, aptes à répondre aux besoins des entreprises dans le domaine du traitement statistique de l’information et des techniques d’aide à la décision.Préparer les étudiants aux carrières de recherche
+
+Coordinateur: Pr.EL MERZGUIOUI Mhamed
+Email: melmerzguioui@uae.ac.ma
+
+Débouchés: Master de mathématiques et informatique (fondamental, spécialisé ou professionnel) dans une université marocaine ou étrangère.Intégration (sur concours ou dossier) des écoles d'ingénieursAdministrationIndustries et commerceSociétés financières.Bureaux d’études
+
+Programme:
+Semestre 5:
+  1. Base de données Relationnelles et NoSQL
+  2. Programmation orientée objet et Développement Web
+  3. Statistique Inférentielle et Recherche Opérationnelle
+  4. Intégration et Probabilités
+  5. Analyse des Données et Datamining
+  6. Anglais et Management de Projet
+
+Semestre 6:
+  1. Programmation Python et Machine Learning
+  2. Mathématiques pour l’Intelligence Artificielle
+  3. Régression – Anova et Maîtrise Statistique des Procédés
+  4. PFE

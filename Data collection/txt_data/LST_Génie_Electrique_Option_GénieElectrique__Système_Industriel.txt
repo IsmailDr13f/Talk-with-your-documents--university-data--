@@ -1,0 +1,23 @@
+Filière: LST: Génie Electrique Option: GénieElectrique & Système Industriel
+
+Objectif: L’objectif de la licence Génie électrique est de donner aux étudiants les éléments de base en physique mathématique et informatique et de leur apporter une formation solide dans les domaines du génie électrique, en particulier en électronique électrotechnique. Ce qui leur permettra de préparer un master à dominante ingénierie EEA ou d’intégrer les grandes écoles d’ingénieurs. Ils pourront aussi se présenter aux différentes fonctions publiques ou privées exigeant le niveau de la licence.Les étudiants sont également initiés à la vie professionnelle par le biais de stages au sein des entreprises.
+
+Coordinateur: Pr. Mekrini Zineb
+Email: zmekrini@uae.ac.ma
+
+Débouchés: Elles sont complémentaires et transversales à beaucoup de domaines :Électronique de contrôle, de mesure et de commande.Traitement et analyse du signal.Principe de fonctionnement et le domaine d’application des machines électriques.Électronique de puissance.Automates programmables.Techniques de commande de processus industriels.Systèmes à microprocesseur.Réseaux informatique.Bases de données.Gestion de la maintenance.
+
+Programme:
+Semestre 5:
+  1. Traitement de signal & Télécommunication
+  2. Actionneurs industriels
+  3. Électronique et systèmes
+  4. Automatismes
+  5. Électronique de puissance
+  6. Gestion de maintenance et sûreté de fonctionnement
+
+Semestre 6:
+  1. Management du projet
+  2. Microcontrôleur microprocesseur
+  3. Réseaux et base de données
+  4. Projet de fin d’études

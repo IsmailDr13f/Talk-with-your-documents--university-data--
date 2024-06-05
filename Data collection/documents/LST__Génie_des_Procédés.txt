@@ -1,0 +1,23 @@
+Filière: LST : Génie des Procédés
+
+Objectif: Formation visant à donner aux étudiants des bases solides en chimie, physique, mathématiques, informatique et de gestion des procédés industriels. Les lauréats de la formation seront capables de conduire des ateliers de fabrication continue et séquentielle, de manager une équipe, de connaître et de prendre en compte les contraintes de sécurité, d’environnement et de l’organisation scientifique du travail.
+
+Coordinateur: Pr.AZAAR Khalid
+Email: k.azaar@uae.ac.ma
+
+Débouchés: Mettre l’étudiant au cœur des problèmes technologique réel qu’il devra résoudre.Le futur lauréat doit convaincre le secteur industriel et laboratoires de ses capacités scientifiques, multidisciplinaires, décisionnelles et organisationnelles.
+
+Programme:
+Semestre 5:
+  1. Calculs des réacteurs
+  2. Bilan Matière et Énergie
+  3. Opérations Unitaires
+  4. Mécanique des fluides et Hydraulique
+  5. Optimisation des Procédés Industrielle
+  6. Modélisation des processus et Régulation des Procédés
+
+Semestre 6:
+  1. Matériaux et Industrie chimique
+  2. Procédés de Dépollution
+  3. Valorisation des Ressources
+  4. Projet de fin d’études

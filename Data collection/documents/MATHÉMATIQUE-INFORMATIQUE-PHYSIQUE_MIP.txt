@@ -1,0 +1,39 @@
+Filière: MATHÉMATIQUE-INFORMATIQUE-PHYSIQUE (MIP)
+
+Objectif: L’objectif du tronc commun MIP est de donner à l’étudiant une base solide dans les matières scientifiques (physique, chimie et mathématiques etc…) qui vont lui permettre de continuer ses études dans les semestres S5 et S6 des cycles licences qui émanent de ce parcours tout en gardant la possibilité de se réorienter vers d’autres troncs communs comme MIPC et GE/GM.Également, ce tronc commun permet à l’étudiant de postuler à des concours d’accès aux cycles ingénieurs dispensés dans notre établissement et aussi à des concours nationaux ou internationaux des écoles d’ingénieurs.
+
+Coordinateur: Pr.Jbilou Mohammed
+Email: mjbilou@uae.ac.ma
+
+Programme:
+Semestre 1:
+  1. Circuits électriques et électroniques
+  2. Electricité
+  3. Analyse 1 : Fonction d’une variable réelle
+  4. Algèbre 1 : Polynômes et espaces vectoriels
+  5. Algorithmique et Programmation 1
+  6. Langues et Communication -LC1
+
+Semestre 2:
+  1. Thermodynamique
+  2. Mécanique du point et Optique géométrique
+  3. Analyse 2 : Calcul intégral et équations différentielles
+  4. Algèbre 2 : Réduction des endomorphismes et formesquadratiques
+  5. Structure de la matière
+  6. Langues et Communication –LC2
+
+Semestre 3:
+  1. Mécanique des Solides
+  2. Analyse 3 : Fonctions de plusieurs variables et calcul des intégrales multiples
+  3. Statistique descriptive/probabilités
+  4. Algorithmique et Programmation 2
+  5. Réactivité chimique
+  6. Langues et Communication –LC3
+
+Semestre 4:
+  1. Électromagnétisme
+  2. Mécanique quantique et Relativité
+  3. Analyse 4: Séries de fonctions et calcul des résidus
+  4. Structure de données en C
+  5. Chimie organique 1
+  6. Chimie minérale 1

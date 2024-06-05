@@ -1,0 +1,23 @@
+Filière: LST : Génie Industriel
+
+Objectif: Cette formation pluridisciplinaire garantit l’ouverture d’esprit nécessaire pour appréhender et dominer les problèmes concernant un projet industriel dont l’aspect technique ne constitue qu’une partie parmi d’autres.L’étudiant disposant d’une licence Sciences et techniques Génie Industriel pourra poursuivre ses études supérieures dans les différentes grandes écoles ou bien en Master Science et Techniques. Il pourra aussi intégrer le tissu industriel essentiellement les PME/PMI.
+
+Coordinateur: Pr.Hassan El M’rabet
+Email: helmramet@uae.ac.ma
+
+Débouchés: Métiers de l’ingénieur : Production ; Méthodes ; Maintenance ; Management de la qualité. Poursuite des études en Master ou en cycle d’ingénieur.
+
+Programme:
+Semestre 5:
+  1. Machines Hydrauliques
+  2. Gestion de production
+  3. Machines Thermiques
+  4. Gestion de la qualité
+  5. Gestion de la maintenance et sureté de fonctionnement
+  6. Matériaux et RDM
+
+Semestre 6:
+  1. Logistique et Supply Chain Management
+  2. Optimisation des Systèmes
+  3. Management de projet
+  4. Projet de fin d’études

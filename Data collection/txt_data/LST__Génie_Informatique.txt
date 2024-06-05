@@ -1,0 +1,23 @@
+Filière: LST : Génie Informatique
+
+Objectif: Avoir une culture de base scientifique ;Acquérir une base solide dans les axes majeurs et fondamentaux de la discipline informatique : Algorithmique, Programmation, Bases de Données, Technologies Web, Systèmes d’Exploitation et Réseaux Informatiques, ... ;Développer un savoir-faire technique en informatique : technologie objet, informatique distribuée, architectures client-serveur et n-tiers, applications hétérogènes, … ;
+
+Coordinateur: Pr.Boudhir Anouar Abdelhakim
+Email: aboudhir@uae.ac.ma
+
+Débouchés: Technicien supérieur en développement d’application en C++ et JAVA ; Technicien supérieur en réseaux locaux ; Technicien supérieur en SGBD-R : installation, configuration et administration des SGBD ; WebMaster et développeur des sites web dynamiques, ... Les orientations potentielles de poursuite des études sont de type : Masters à dominance informatique, Masters orientés e-Technologies, Masters à dominance automatique ou informatique industrielle ou informatique décisionnelle et Formations d’ingénieurs.
+
+Programme:
+Semestre 5:
+  1. Programmation Orientée Objet en C++
+  2. Bases de Données
+  3. Architecture C/S et Développement Web Dynamique
+  4. Introduction aux Réseaux Informatiques
+  5. Système d’exploitation UNIX/Linux
+  6. TEC & Anglais
+
+Semestre 6:
+  1. Modélisation UML
+  2. Programmation Orientée Objet en Langage JAVA
+  3. Les Réseaux TCP/IP
+  4. Projet de fin d’études

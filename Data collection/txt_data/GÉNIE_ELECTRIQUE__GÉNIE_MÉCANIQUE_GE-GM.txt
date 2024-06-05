@@ -1,0 +1,39 @@
+Filière: GÉNIE ELECTRIQUE – GÉNIE MÉCANIQUE (GE-GM)
+
+Objectif: L’objectif du tronc commun GE/GM est de donner à l’étudiant une base solide en matières scientifiques (physique, chimie et mathématiques etc…) et techniques (Electrotechnique, Automatique, mécanique et instrumentation et métrologie) qui vont lui permet de continuer ses études en licences qui émanent de ce parcours tout en gardant la possibilité de se réorienter à d’autres licences des autres troncs communs comme MIP et MIPC.Également, ce tronc commun permet à l’étudiant de postuler à des concours nationaux ou internationaux des écoles d’ingénieurs.
+
+Coordinateur: Pr.Jbilou Mohammed
+Email: mjbilou@uae.ac.ma
+
+Programme:
+Semestre 1:
+  1. Circuits électriques et électroniques
+  2. Electricité
+  3. Analyse 1 : Fonction d’une variable réelle
+  4. Algèbre 1 : Polynômes et espaces vectoriels
+  5. Algorithmique et Programmation 1
+  6. Langues et Communication -LC1
+
+Semestre 2:
+  1. Thermodynamique
+  2. Mécanique du point et Optique géométrique
+  3. Analyse 2 : Calcul intégral et équations différentielles
+  4. Algèbre 2 : Réduction des endomorphismes et formesquadratiques
+  5. Structure de la matière
+  6. Langues et Communication –LC2
+
+Semestre 3:
+  1. Mécanique des Solides
+  2. Electronique
+  3. Statistique descriptive/probabilités
+  4. Algorithmique et Programmation 2
+  5. Métrologie et instrumentation
+  6. Gestion
+
+Semestre 4:
+  1. Electrotechnique
+  2. Automatique
+  3. Fabrication mécanique
+  4. Construction mécanique
+  5. Informatique 3
+  6. Analyse numérique

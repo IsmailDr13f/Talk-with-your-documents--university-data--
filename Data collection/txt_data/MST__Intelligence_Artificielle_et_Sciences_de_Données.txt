@@ -1,0 +1,36 @@
+Filière: MST : Intelligence Artificielle et Sciences de Données
+
+Objectif: Cette formation d'excellence offre de solides connaissances en conception de systèmes d'intelligence artificielle et mathématiques appliquées afin de couvrir l'ensemble des problématiques de traitement et d'analyse des données massives que rencontre les entreprises. Elle met l'accent sur l'articulation entre apprentissage automatique, gestion et fouille de grandes masses de données, paradigmes du Big Data, représentation des connaissances, le traitement des données et sur les méthodologies récemment développées.
+
+Coordinateur: Pr.EZZIYYANI MOSTAFA
+Email: mezziyyani@uae.ac.ma
+
+Débouchés: 
+
+Programme:
+Semestre 1:
+  1. THÉORIES ET SYSTÈMES DE RAISONNEMENTS INTELLIGENTS
+  2. MATHÉMATIQUES POUR ANALYSE DE DONNÉES
+  3. PROGRAMMATION AVANCÉE
+  4. BASES DE DONNÉES AVANCÉES
+  5. MACHINE LEARNING 1
+  6. ANGLAIS ET TECHNIQUE D’EXPRESSION
+
+Semestre 2:
+  1. INFRASTRUCTURE ET ARCHITECTURE DES SYSTÈMES DISTRIBUES & BIG DATA
+  2. PLATEFORMES IOT CORE: TECHNOLOGIES, DATA ET IA
+  3. METAHEURISTIQUES & ALGORITHMES DE RECHERCHE STOCHASTIQUE
+  4. SMA & NLP
+  5. DATAMING & BI
+  6. DEVELOPPEMENT PERSONNEL ET INTELLIGENCE EMOTIONNELL
+
+Semestre 3:
+  1. MULTIMEDIA MINING AND INDEXING
+  2. MACHINE LEARNING 2 : DEEP and TRANSFERT LEARNING
+  3. DATA SPACES & DATA  INTEGRATION & SEMANTIC INTEROPERABILITY
+  4. BLOCKCHAIN & SECURITE APPLICATIVE
+  5. VIRTUALIZATION, CLOUD AND EDGE COMPUTING
+  6. DIGITAL BUSINESS STRATEGIES  LEADERSHIP IN THE AGE OF AI
+
+Semestre 4:
+  1. Projet de fin d’étude

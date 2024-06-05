@@ -1,0 +1,52 @@
+Filière: DI: Géoinformation
+
+Objectif: Le principal objectif de cette filière est de former des ingénieurs "géo-informaticiens cartographes gestionnaires de l’information spatiale" polyvalents, qui s'intéressent prioritairement à l'organisation, au traitement, à la gestion et à la production des données géographiques et environnementales au moyen de la cartographie, de la télédétection, de l'analyse spatiale quantitative et des systèmes d'informations géographiques.Ce programme permet à l'étudiant d’acquérir les connaissances et les compétences en géo-information et les technologies de l’information requises pour la mise en place d’infrastructures informatiques de pointe au service de la donnée géo-spatiale.Pour atteindre cet objectif, le programme s’appui sur une démarche active de prise en main des méthodes et outils de la géo-information résolument tournée vers les applications. Ils combinent des cours théoriques et pratiques incluant aussi des travaux de terrain et des travaux personnels encadrés, des études de cas de montage et de conduite de projets, des applications opérationnelles et des stages en milieux professionnels.
+
+Coordinateur: Pr.Jamal Eddine EL ABDELLAOUI
+Email: j.elabdellaoui@uae.ac.ma
+
+Débouchés: La filière forme pour des profils de :Chef de projet informatiqueAdministrateur de donnéesDirecteur de service cartographiqueExpert en acquisition et traitement de données spatialesIngénieur adjoint en Gestion des réseaux (transport, distribution..)Expert en aménagement et développement durableChef de mission géodésique et topographique…etc
+
+Programme:
+Semestre 1:
+  1. Algorithmique et programmation
+  2. Compléments de mathématique et Analyse numérique
+  3. Statistique/Analyse des données
+  4. Bases physiques de la télédétection/Traitement du signal
+  5. Communication professionnelle
+  6. Systèmes d’information et réseaux informatique
+
+Semestre 2:
+  1. Cartographie numérique et DAO
+  2. Programmation et modélisation Objet
+  3. Information géographique et systèmes de projection
+  4. Géométrie analytique et algorithmique
+  5. Anglais 1
+  6. Optimisation et analyse de systèmes
+
+Semestre 3:
+  1. Géodésie/Localisation par satellite (GPS)
+  2. Topographie
+  3. Bases de données  spatiales et relationnelles
+  4. Communication professionnelle/Méthode de recherche
+  5. Méthode d’analyse spatiales
+  6. Systèmes d’information géographique
+
+Semestre 4:
+  1. Télédétection Radar/Lidar
+  2. Télédétection et traitement d’images optique
+  3. Photogrammétrie
+  4. Programmation pour les SIG et pour la télédétection
+  5. Anglais 2
+  6. Wabemapping & Développement mobile
+
+Semestre 5:
+  1. Systèmes de Management de la qualité/Gestion del’entreprise & des ressources
+  2. Géoinformation et gestion de l’environnement et du territoire
+  3. SIG et prise de décision
+  4. Gestion et management de projet en Géoinformation
+  5. Gestion des réseaux et développement socioéconomique
+  6. Administration des données spatiales
+
+Semestre 6:
+  1. Projet de fin d’étude

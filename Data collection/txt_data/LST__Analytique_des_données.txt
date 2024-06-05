@@ -1,0 +1,25 @@
+Filière: LST : Analytique des données
+
+Objectif: La Licence Science et Techniques en analytique des données permet aux étudiants de doter de compétences en matière d'outils informatiques, des
+techniques et des méthodes statistiques pour permettre d’organiser, de synthétiser et de traduire efficacement les données métier d’une
+organisation. L'étudiant doit être en mesure d'apporter un appui analytique à la conduite d'exploration et à l'analyse complexe de données.
+
+Coordinateur: Pr.BAIDA Ouafae
+Email: wbaida@uae.ac.ma
+
+Débouchés: ,Masters en sciences de données: fouille de données, business analytiques, blockchain,,Masters orientés e-Technologies: e-Business, e-Administration et e-Logistique,Formations d’Ingénieurs dans une école d’ingénieurs à l’issue de la deuxième ou de la troisième année de licence,Data scientist,Technicien supérieur en SGBD R : installation, configuration et administration des SGBD,WebMaster et développeur de sites web dynamiques,Intégration du monde du travail dans les entreprises et les bureaux d’études,
+
+Programme:
+Semestre 5:
+  1. Mathématiques pour la science des données
+  2. Structures des données avancées et théorie des graphes
+  3. Fondamentaux des bases de données
+  4. Algorithmique avancée et programmation
+  5. Développement WEB
+  6. Développement personnel et intelligence émotionnelle (Soft skills)
+
+Semestre 6:
+  1. Analyse et fouille de données
+  2. Systèmes et réseaux
+  3. Ingénierie des données
+  4. PFE

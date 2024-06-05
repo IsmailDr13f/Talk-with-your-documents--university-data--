@@ -1,0 +1,52 @@
+Filière: DI: Logiciels et Systèmes Intelligents
+
+Objectif: Former des ingénieurs capables de :Comprendre les enjeux des techniques de l’informationProposer et construire des solutions informatiques et décisionnelles compétitives et réalistesIntervenir sur des problématiques informatiques complexesPiloter des projets informatiques et les changements qu'ils entraînent.
+
+Coordinateur: Pr.Lotfi EL AACHAK
+Email: lelaachak@uae.ac.ma
+
+Débouchés: COMPÉTENCES VISÉES :Concevoir et développer des plates formes logiciels desktop, logiciel et mobileConcevoir et mettre en place des systèmes d’aide à la décisionAdministrer une infrastructure informatiqueGérer et conduire un projet informatique DÉBOUCHÉS : Ingénierie logicielleIngénierie de réseaux d’entreprisesIntégration des systèmes d’aide à la décisionAdministrateur Systèmes et réseauxConcepteur des plateformes décisionnelles
+
+Programme:
+Semestre 1:
+  1. Architecture des ordinateurs & systèmes d'exploitation
+  2. Architecture réseaux & protocoles
+  3. Systèmes d’informations & bases de données
+  4. Programmation Orientée Objets en C++
+  5. Mathématiques pour l’ingénieur
+  6. Anglais et techniques de rédaction
+
+Semestre 2:
+  1. Programmation Orientée Objets en Java et Programmation Mobile
+  2. Développement web et Frameworks (php, zend, symfony
+  3. Théorie des graphes & Applications
+  4. Conception Orienté Objet (UML) & Qualité Logiciel
+  5. Statistique descriptive et inférentielle
+  6. Management & comptabilité
+
+Semestre 3:
+  1. Systèmes embarqués & Internet des objets
+  2. Gestion de projet Informatique & Planification des ressources d'entreprise (open ERP)
+  3. Administration des bases de données
+  4. Méthodologies de l'Intelligence Artificielle
+  5. Architectures web distribuées (J2EE)
+  6. Anglais Avancée & Techniques d'exposition
+
+Semestre 4:
+  1. Systèmes d’informations décisionnels & data mininig
+  2. Technologies .NET
+  3. Machine Learning & Systèmes multi-agents
+  4. Administration systèmes et réseaux
+  5. Procesus audit & Urbanisation des systèmes d’informations
+  6. Droit & gestion d'entreprise
+
+Semestre 5:
+  1. Business Intelligence & Big Data
+  2. Vision Artificielle
+  3. Sécurité Intelligente des Systèmes d’informations
+  4. Cloud Intelligence & virtualisation
+  5. Intelligence économique & Soft Skills
+  6. Anglais professionnel & techniques de coaching
+
+Semestre 6:
+  1. Projet de fin d’étude

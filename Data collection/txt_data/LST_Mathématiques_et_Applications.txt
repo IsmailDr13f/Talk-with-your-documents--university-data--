@@ -1,0 +1,23 @@
+Filière: LST: Mathématiques et Applications
+
+Objectif: Acquérir une double compétence mathématiques et informatique grâce à laquelle ils aborderont les problèmes de modélisation et de simulation scientifique sous tous leurs aspects, de la conception à la mise en oeuvre numérique.L’accent est donc mis à la fois sur des techniques d’ingénierie mathématiques et sur les langages de programmation et les outils algorithmiques.
+
+Coordinateur: Pr.Lahrouz Adil
+Email: a.lahrouz1@uae.ac.ma
+
+Débouchés: Cette licence a pour débouchés :  Les entreprises et les bureaux d’études ; La poursuite des études en cycle ingénieur ; La poursuite des études en cycle Master ; L’enseignement public ou privé.
+
+Programme:
+Semestre 5:
+  1. Topologies dans les espaces métriques
+  2. Intégration
+  3. Probabilités avancées
+  4. Recherche Opérationnelle
+  5. Concepts de base de programmation orientée C
+  6. Analyse numérique matricielle
+
+Semestre 6:
+  1. Calcul différentiel et équations différentielles
+  2. Topologie générale et distributions
+  3. Analyse numérique des équations différentielles
+  4. Projet de fin d’études

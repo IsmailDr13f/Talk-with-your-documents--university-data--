@@ -1,0 +1,36 @@
+Filière: MST : Modélisation Mathématique et Science de Données
+
+Objectif: Le Master Modélisation Mathématique et Science de Données (MMSD) de l'Université Abdelmalek Essaadi a pour vocation d'offrir des parcours qui trouvent leurs bases dans une approche pluridisciplinaire. Au département de mathématiques on propose aux étudiants d’acquérir une double compétence en Modélisation Mathématiques et en Science de Données s’appuyant sur la maîtrise de l'informatique scientifique notamment pour le calcul haute Performance, la Statistique et la Science de Données. Cela peut inclure des compétences en programmation, en visualisation de données et en utilisation de bibliothèques de modélisation.Pour une approche pluridisciplinaire des problèmes liés aux applications, la Modélisation Mathématique et la Science de Données ne peuvent que former des étudiants pour la recherche et les activités professionnelles de haut niveau avec des compétences nécessaires pour mener un travail de recherche et/ou de développement en misant sur : l’autonomie dans l’analyse d’un problème complexe et la proposition d’approches (théoriques, numériques et/ou expérimentales) appropriées ; la maîtrise de l’outil informatique (notamment pour l’analyse de grandes quantités de données) et le calcul scientifique qui se pose à l’entreprise et une solution innovante et compétitive.Capacité de communication : Les étudiants doivent être capables de présenter et de communiquer efficacement leurs résultats et leurs conclusions. Des compétences en visualisation des données et en présentation orale sont essentielles.En plus une bonne formation en MMSD permettra de mieux optimiser les ressources humaines surtout au niveau des encadrants des PFEs (Master) et/ou des Doctorants.
+
+Coordinateur: Pr.EL HALIMI Rachid
+Email: r.elhalimi@uae.ac.ma
+
+Débouchés: Donner une formation mathématique et statistique-informatique de haut niveau et vise à développer les compétences en communication et l'autonomie des étudiants.Connaissance des outils pratiques de modélisation mathématiques et d’analyse des données pour la résolution de problèmes issus d'autres disciplines (physique, chimie, biologie, informatique, économie, etc.).Compréhension et analyse de documents scientifiques et de grandes bases de données.Conduite d'un projet d'une durée d’un semestre.Rédaction de rapports et présentation d'exposés de nature mathématique.Préparation à l'agrégation de mathématiques et concours des professeurs de second cycle.Ingénieur en simulation numérique
+
+Programme:
+Semestre 1:
+  1. Anglais Scientifique I & Soft Skils
+  2. Programmation Avancée avec Python et R
+  3. Analyse Numérique Matricielle Avancée
+  4. Modélisation et calcul fractionnaire
+  5. Equation différentielle stochastique (EDS)
+  6. Analyse fonctionnelle et applications
+
+Semestre 2:
+  1. Sécurité Informatique
+  2. Analyse numérique des EDPs
+  3. Séminaire / Initiation à la recherche
+  4. IA et Machine Learning
+  5. Statistiques des valeurs extrêmes
+  6. Analyse asymptotique et modélisation
+
+Semestre 3:
+  1. Analyses de données /BIG DATA
+  2. Modèles Mixtes et applications sous R
+  3. Semi Groupes et équation d'évolution
+  4. Optimisation et contrôle Optimal
+  5. Séries chronologiques et Méthodes de prévision
+  6. Anglais Scientifique II & Soft Skils
+
+Semestre 4:
+  1. Projet de fin d’étude
